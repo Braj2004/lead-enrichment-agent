@@ -4,8 +4,8 @@
 
 if [ -z "$1" ]; then
     echo "================================================================="
-    echo "❌ Usage: ./push_to_github.sh <YOUR_GITHUB_REPO_URL>"
-    echo "Example: ./push_to_github.sh https://github.com/username/lead-enrichment-agent.git"
+    echo "❌ Usage: ./push_to_github.sh <www.linkedin.com/in/brajnandan-prasad-2b43b72a6>"
+    echo "Example: ./push_to_github.sh https://github.com/Braj2004/lead-enrichment-agent.git"
     echo "================================================================="
     exit 1
 fi
