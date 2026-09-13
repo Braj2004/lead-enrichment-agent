@@ -1,0 +1,49 @@
+{
+  "results": [
+    {
+      "domain": "vapi.ai",
+      "company_name": "Vapi",
+      "company_overview": "Vapi is an AI voice agent platform that enables developers to build, test, and deploy conversational voice bots in minutes. It provides low-latency speech-to-speech pipelines for automated phone calling and voice assistants.",
+      "target_audience": "Developers, AI engineers, product teams, and businesses automating customer support and sales outbound calls.",
+      "contact_points": [
+        "contact@vapi.ai",
+        "support@vapi.ai",
+        "talent@vapi.ai"
+      ],
+      "key_leadership": [
+        {
+          "name": "Jordan Singer",
+          "role": "Co-Founder & CEO",
+          "linkedin_url": "https://www.linkedin.com/in/jsngr"
+        },
+        {
+          "name": "Shubham Goel",
+          "role": "Co-Founder",
+          "linkedin_url": "https://www.linkedin.com/in/shubhamgoel"
+        }
+      ],
+      "data_confidence_score": 1.0,
+      "pages_crawled": [
+        "https://vapi.ai",
+        "https://vapi.ai/pricing",
+        "https://vapi.ai/careers"
+      ],
+      "search_queries_used": [],
+      "cost_metrics": {
+        "input_tokens": 2788,
+        "output_tokens": 250,
+        "total_tokens": 3038,
+        "estimated_cost_usd": 0.000568
+      }
+    }
+  ],
+  "total_domains": 1,
+  "successful_domains": 1,
+  "failed_domains": 0,
+  "total_cost_metrics": {
+    "input_tokens": 2788,
+    "output_tokens": 250,
+    "total_tokens": 3038,
+    "estimated_cost_usd": 0.000568
+  }
+}
