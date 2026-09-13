@@ -190,29 +190,4 @@ pytest
 }
 ```
 
----
 
-## 🎥 Loom / Video Walkthrough Script (2 to 3 minutes)
-
-1. **Introduction (0:00 - 0:30)**:
-   - Introduce yourself and state the purpose: Walkthrough of the Autonomous Lead Enrichment Agent built for Postman, Supabase, and Vapi.ai.
-2. **Architecture & Codebase Overview (0:30 - 1:15)**:
-   - Walk through `src/crawler.py` (Playwright async headless rendering and subpage discovery).
-   - Point out `src/parser.py` (DOM cleaning and Markdown conversion for token optimization).
-   - Show `src/extractor.py` and `src/models.py` (Pydantic structured output validation).
-   - Highlight bonus features in `src/search.py` (Search fallback for LinkedIn URLs) and `src/cost_tracker.py` (Real-time token & cost logging).
-3. **Live Execution in Terminal (1:15 - 2:00)**:
-   - Run `python main.py` in the terminal.
-   - Show real-time crawling logs, subpage discovery, leadership extraction, and token cost breakdown.
-4. **Inspecting Final Output Files (2:00 - 2:45)**:
-   - Open `output.json` and `output.csv` to showcase the extracted overview, ICP, emails, key leadership with LinkedIn URLs, data confidence score, and total cost summary.
-5. **Conclusion & Operations Confirmation (2:45 - 3:00)**:
-   - Summarize system resilience and confirm readiness for operational execution.
-
----
-
-## 📋 Operations Question Answer
-
-> **Confirmation Regarding 40% Manual Operations Expectation**:
-> 
-> *I explicitly confirm that I understand, agree to, and accept the expectation of 40% manual operations as part of the role. I am fully comfortable handling operational, manual quality assurance, data validation, and human-in-the-loop workflows alongside building autonomous AI agents.*
