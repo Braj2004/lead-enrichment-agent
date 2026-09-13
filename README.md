@@ -190,4 +190,14 @@ pytest
 }
 ```
 
+---
+## 👤 Author & Project Metadata
+> **Brajnandan Prasad**  
+> *AI/ML Intern @ Infosys Springboard | Data Scientist | B.Tech CSE ’26*  
+> 
+> 📌 **Project**: Autonomous Lead Enrichment Agent  
+> 🎯 **Focus**: Web Scraping Automation, Token-Optimized DOM Parsing & Structured LLM Extraction  
+> 🛠️ **Core Tech Stack**: Python | Playwright | Pydantic | OpenAI / Gemini | DuckDuckGo API | AsyncIO | Pytest  
+> 📬 **Contact**: [LinkedIn](https://www.linkedin.com/in/brajnandan-prasad) • [GitHub](https://github.com/Braj2004) • `brajnandanprasad21@gmail.com`
+---
 
