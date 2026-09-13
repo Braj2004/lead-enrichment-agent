@@ -8,6 +8,14 @@ version = "1.0.0"
 description = "Autonomous Lead Enrichment Agent using Playwright, LLM Structured Outputs, and External Search Integration."
 readme = "README.md"
 requires-python = ">=3.9"
+authors = [
+    {name = "Brajnandan Prasad", email = "brajnandanprasad21@gmail.com"}
+]
+
+[project.urls]
+"Homepage" = "https://github.com/Braj2004/lead-enrichment-agent"
+"Repository" = "https://github.com/Braj2004/lead-enrichment-agent"
+"LinkedIn" = "https://www.linkedin.com/in/brajnandan-prasad-2b43b72a6"
 dependencies = [
     "playwright>=1.42.0",
     "pydantic>=2.6.0",
